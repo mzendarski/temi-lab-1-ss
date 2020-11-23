@@ -6,3 +6,5 @@ Mikołaj Żendarski
 Program powoduje zapalnie się diody "L".
 2-2
 Podłączenie diody przed rezystorem nie ma znaczenia.
+2-2-3
+Nie zawsze można zastąpić jedną konstrukcję drugą

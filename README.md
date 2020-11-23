@@ -8,3 +8,5 @@ Program powoduje zapalnie się diody "L".
 Podłączenie diody przed rezystorem nie ma znaczenia.
 2-2-3
 Nie zawsze można zastąpić jedną konstrukcję drugą
+2-3
+Możliwość przedłużenia czasu czekaniaoczekiwania na zielone światłó  przez kierowców oraz przerwania zielonego czasu światła

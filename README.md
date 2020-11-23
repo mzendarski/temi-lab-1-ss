@@ -2,3 +2,7 @@
 23.11.2020r
 WEL18DE1S1
 Mikołaj Żendarski
+2-2-1a
+Program powoduje zapalnie się diody "L".
+2-2
+Podłączenie diody przed rezystorem nie ma znaczenia.
